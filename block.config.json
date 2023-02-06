@@ -1,0 +1,8 @@
+{
+  "name": "test_demo_test_one_infinity_one",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/test-organization-shakir/test_demo_test_one_infinity_one",
+    "ssh": "git@github.com:test-organization-shakir/test_demo_test_one_infinity_one.git"
+  }
+}
